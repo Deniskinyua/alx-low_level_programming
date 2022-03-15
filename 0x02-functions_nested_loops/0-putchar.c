@@ -1,5 +1,7 @@
 #include "main.h"
-
+/*
+ * This is main header file
+ */
 int main(void)
 {
 	char text[9] = "_putchar";
