@@ -1,7 +1,7 @@
 This directory holds different answers to quizzes from the 0x05. C-Pointers, arrays and strings a project on 03/21/2022.
 
 The requirements include;
-llowed editors: vi, vim, emacs
+Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
 A README.md file, at the root of the folder of the project is mandatory
@@ -36,7 +36,7 @@ TASK 4: I Can Only Go One Way
 Write a function that prints a string, in reverse, folowed by a new line.
 (Required: Prototype-void print_rev(char *s)  Betty Style File: 4-print_rev.c)
 
-TASK 5:A Good Engineer
+**TASK 5:A Good Engineer**
 Write a function that reverses a string
 (Required: Prototype- void rev_string(char *s); Betty Style file- 5-rev_string.c)
 
