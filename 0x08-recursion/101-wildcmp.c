@@ -1,5 +1,6 @@
 #include "main.h"
 #include <stdio.h>
+#include "main_0.c"
 
 /**
  * _strlen_recursion - size
