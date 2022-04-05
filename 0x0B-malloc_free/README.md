@@ -1,0 +1,1 @@
+0x0b.c-malloc, free, \n In this project we learn about the use of malloc () and free (), functions in dynamic allocation of memory in C. The intent is to (i) Lear the difference between Automatc and Dynamic Allocation of memory, (ii) What malloc () and free () are and how to use them, (iii) Why and when to use malloc (), and (iv) How to use valgrind to check memory leak.
