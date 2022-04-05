@@ -3,14 +3,16 @@
                                                                              MANDATORY TASKS
 
 
-Task 0: "Float Like a Buterfly, Sting Like A Bee" \n
+Task 0: "Float Like a Buterfly, Sting Like A Bee"
+
 Write a function that creates an array of chars, and initializes it with a specific char.
 
     Prototype: char *create_array(unsigned int size, char c);
     Returns NULL if size = 0
     Returns a pointer to the array, or NULL if it fails \n
 
-Task 1: "The Woman Who Has No Imagination Has No Wings" \n
+Task 1: "The Woman Who Has No Imagination Has No Wings"
+
 Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
     (i) Prototype: char *_strdup(char *str);
@@ -21,6 +23,7 @@ Write a function that returns a pointer to a newly allocated space in memory, wh
 FYI: The standard library provides a similar function: strdup. Run man strdup to learn more.
 
 Task 2: "He Who is Not Courageous Enough to Take Risks Will Accomplish Nothing in Life"
+
 Write a function that concatenates two strings.
 
     (i) Prototype: char *str_concat(char *s1, char *s2);
@@ -29,6 +32,7 @@ Write a function that concatenates two strings.
     (iv) The function should return NULL on failure
 
 Task 3: "If You Even Drem of Beating Me You'dBetter Wake Up and Apoligize"
+
 Write a function that returns a pointer to a 2 dimensional array of integers.
 
     (i) Prototype: int **alloc_grid(int width, int height);
@@ -37,6 +41,7 @@ Write a function that returns a pointer to a 2 dimensional array of integers.
     (iv) If width or height is 0 or negative, return NULL
 
 Task 4: "It's Not Bragging If You Can Back It Up"
+
 Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
 
     (i) Prototype: void free_grid(int **grid, int height);
@@ -46,6 +51,7 @@ Write a function that frees a 2 dimensional grid previously created by your allo
 										 ADVANCED TASKS
 
 TASK 5: "It Isn't the Mountains Aheadto Climb that Wear You Out; It's the Pebble in your Shoe"
+
 Write a function that concatenates all the arguments of your program.
 
     (i) Prototype: char *argstostr(int ac, char **av);
@@ -54,6 +60,7 @@ Write a function that concatenates all the arguments of your program.
     (iv) Each argument should be followed by a \n in the new string
 
 TASK 6: "I Will Show You How Great I Am"
+
 Write a function that splits a string into words.
 
     (i) Prototype: char **strtow(char *str);
