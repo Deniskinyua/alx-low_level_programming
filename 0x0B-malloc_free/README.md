@@ -45,4 +45,22 @@ Write a function that frees a 2 dimensional grid previously created by your allo
                                                                                  
 										 ADVANCED TASKS
 
+TASK 5: "It Isn't the Mountains Aheadto Climb that Wear You Out; It's the Pebble in your Shoe"
+Write a function that concatenates all the arguments of your program.
+
+    (i) Prototype: char *argstostr(int ac, char **av);
+    (ii) Returns NULL if ac == 0 or av == NULL
+    (iii) Returns a pointer to a new string, or NULL if it fails
+    (iv) Each argument should be followed by a \n in the new string
+
+TASK 6: "I Will Show You How Great I Am"
+Write a function that splits a string into words.
+
+    (i) Prototype: char **strtow(char *str);
+    (ii) The function returns a pointer to an array of strings (words)
+    (iii) Each element of this array should contain a single word, null-terminated
+    (iv) The last element of the returned array should be NULL
+    (v) Words are separated by spaces
+    (vi) Returns NULL if str == NULL or str == ""
+    (vii) If your function fails, it should return NULL
 
