@@ -1,2 +1,1 @@
-This is C programming
-More nested loops
+This repository covers differennt projects within C programming.
