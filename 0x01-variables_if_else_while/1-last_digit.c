@@ -2,6 +2,11 @@
 #include <time.h>
 #include <stdio.h>
 
+/*
+
+--The Last Digit--
+Assign a random number to the variable n each time it is executed
+*/
 int main(void)
 {
 	int n;
