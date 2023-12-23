@@ -40,14 +40,9 @@ It presents projects on implemention of **if, if-else** and **while loops**.
 |`1-last_digit.c`|Assign a random number to the variable n each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable n|
 |`2-print_alphabet.c`|Prints the alphabet in lowercase, followed by a new line.|
 |`3-print_alphabets.c`|rints the alphabet in lowercase, and then in uppercase, followed by a new line|
-|`4-print_alphabt.c`|prints the alphabet in lowercase, followed by a new line; Print all the letters except `q` and `e`; You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden)
-All your code should be in the `main` function
-You can only use `putchar` twice in your code|
+|`4-print_alphabt.c`|prints the alphabet in lowercase, followed by a new line; Print all the letters except `q` and `e`; You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden); All your code should be in the `main` function; You can only use `putchar` twice in your code|
 |`5-print_numbers.c`|prints all single digit numbers of `base 10` starting from `0`, followed by a new line (All your code should be in the `main` function)|
-|`6-print_numberz.c`|prints all single digit numbers of `base 10` starting from `0`, followed by a new line (You are not allowed to use any variable of type char
-You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden)
-You can only use `putchar` twice in your code
-All your code should be in the `main` function|
+|`6-print_numberz.c`|prints all single digit numbers of `base 10` starting from `0`, followed by a new line (You are not allowed to use any variable of type char; You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden); You can only use `putchar` twice in your code; All your code should be in the `main` function|
 |`7-print_tebahpla.c`|prints the lowercase alphabet in reverse, followed by a new line|
 |`8-print_base16.c`|prints all the numbers of base 16 in lowercase, followed by a new line.|
 |`9-print_comb.c`|prints all possible combinations of single-digit numbers.(Numbers must be separated by `,`, followed by a space; Numbers should be printed in ascending order; You can only use the `putchar` function (every other function (`printf`, `puts`, etc…) is forbidden); All your code should be in the `main` function; You can only use `putchar` four times maximum in your code; You are not allowed to use any variable of type `char`|
