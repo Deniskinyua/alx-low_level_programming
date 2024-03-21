@@ -26,3 +26,4 @@
 |Task|Prototype| Description|
 |--------|-------|------|
 |`0-print_dlistint.c`|`size_t print_dlistint(const dlistint_t *h);`| Write a funftion that prints all elements of a `dlistint_t`|
+|`1-dlistint_len.c`|`size_t dlistint_len(const dlistint_t *h);`| Write a function that returns the number of elements in a linked list `dlistint_t` list|
