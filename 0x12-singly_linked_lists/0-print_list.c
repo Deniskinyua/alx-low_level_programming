@@ -1,8 +1,8 @@
 #include "lists.h"
 /**
- * print_list - Function that prints all the elements of a list_t list
- * @h  - Singly Linked List
- * Return - Number of elements/nodes in the singly linked list
+ * print_list - print all elements in a list
+ * @h:Singly Linked List
+ * Return: No. of nodes
  */
 
 size_t print_list(const list_t *h)
