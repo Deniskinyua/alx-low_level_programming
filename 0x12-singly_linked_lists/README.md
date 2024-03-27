@@ -23,7 +23,7 @@
 - All your header files should be include guarded
 ### More Information
 - Please use this data structure for this project:
-'''
+
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
@@ -38,4 +38,4 @@ typedef struct list_s
     unsigned int len;
     struct list_s *next;
 } list_t;
-'''
+
