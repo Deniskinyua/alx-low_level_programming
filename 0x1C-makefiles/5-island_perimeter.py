@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """Technical Interview Prep: Island Parameter"""
 
 def island_perimeter(grid):
